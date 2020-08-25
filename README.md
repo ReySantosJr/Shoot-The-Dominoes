@@ -3,9 +3,8 @@
 This program/game was a project for my CMSC 325 class in UMGC.
 
 *NOTE: *
-When you download the JMonkeyEngine and run the scene, 
-make sure to put the textures in the 'assets/Textures/' section of the program.
-* * *
+**When you download the JMonkeyEngine and run the scene, 
+make sure to put the textures in the 'assets/Textures/' section of the program.**
 
 -GAME DESCRIPTION & INFORMATION-
 
