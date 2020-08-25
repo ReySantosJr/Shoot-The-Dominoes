@@ -28,3 +28,5 @@ using the dominoes as endpoints. The player used the left mouse click to click t
 click to input the sum. The player will see if they have gotten the sum correctly or not and then is prompted to 
 press the spacebar to reset the game. The whole point is to not let the red block reach the other end of the screen. 
 When it does the players score will be shown, how many were correct, how many were not.
+
+*The Screenshot Folder will give you a better idea of the program*
