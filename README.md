@@ -7,7 +7,7 @@ When you download the JMonkeyEngine and run the scene,
 make sure to put the textures in the 'assets/Textures/' section of the program.
 * * *
 
-*GAME DESCRIPTION & INFORMATION*
+*GAME DESCRIPTION & INFORMATION: *
 The game is all about the player matching the number presented by clicking 
 on the dominoes and the number corresponding with the domino is added to the sum. 
 
