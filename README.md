@@ -1,6 +1,7 @@
 # Shoot-The-Dominoes-JMonkeyEngine-
 
 This program/game was a project for my CMSC 325 class in UMGC.
+
 **DOWNLOAD the JMonkeyEngine in order to run this program**
 
 *NOTE: *
