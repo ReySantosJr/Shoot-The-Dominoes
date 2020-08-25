@@ -1,8 +1,11 @@
 # Shoot-The-Dominoes-JMonkeyEngine-
 
 This program/game was a project for my CMSC 325 class in UMGC.
-*NOTE*
-You will need to use the JMokneyEngine in order to see play it correctly.
+
+*NOTE: *
+When you download the JMonkeyEngine and run the scene, 
+make sure to put the textures in the 'assets/Textures/' section of the program.
+* * *
 
 *GAME DESCRIPTION & INFORMATION*
 The game is all about the player matching the number presented by clicking 
