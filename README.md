@@ -3,6 +3,8 @@
 This program/game was a project for my CMSC 325 class in UMGC.
 
 **DOWNLOAD the JMonkeyEngine in order to run this program**
+Available for download here: 
+https://github.com/jMonkeyEngine/sdk/releases
 
 *NOTE: *
 *** When you download the JMonkeyEngine and run the scene, 
